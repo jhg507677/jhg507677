@@ -72,9 +72,10 @@
   
 ## 🤔 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhg507677&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhg507677&show_icons=true&theme=dark&cache_seconds=1800)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhg507677&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhg507677&layout=compact&theme=dark&cache_seconds=1800)
+
 
 </div>
 
