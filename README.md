@@ -70,11 +70,12 @@
   <br/>
 
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhg507677)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhg507677)](https://github.com/anuraghazra/github-readme-stats)
-  
+## 🤔 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhg507677&show_icons=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhg507677&layout=compact)
+
 </div>
 
 <!--
