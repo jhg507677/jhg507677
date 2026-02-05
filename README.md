@@ -8,10 +8,11 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+## 👀 About Me
+- 백엔드 개발자로 일하며 서비스 확장과 코드 품질 개선을 고민해왔습니다.
+- AI를 적극적으로 활용해 개발 생산성을 높이는 것에 관심이 많습니다.
+- 좋은 개발 문화를 가진 팀에서 함께 성장하고 싶습니다.
+
   <br/>
   <br/>
   
@@ -58,24 +59,23 @@
   
   ### ETC
   <!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<!-- AWS -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<!-- EC2 -->
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
-<!-- S3 -->
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
-<!-- Jira -->
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <!-- EC2 -->
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
+  <!-- S3 -->
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
+  <!-- Jira -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <br/>
 
-  
+  <!--
 ## 🤔 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhg507677&show_icons=true&theme=dark&cache_seconds=1800)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhg507677&layout=compact&theme=dark&cache_seconds=1800)
-
+-->
 
 </div>
 
