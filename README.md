@@ -9,7 +9,7 @@
   <!--Body-->
   
 ## 👀 About Me
-- 백엔드 개발자로 일하며 서비스 확장과 코드 품질 개선을 고민해왔습니다.
+- 5년차 백엔드 개발자로 일하며 서비스 확장과 코드 품질 개선을 고민해왔습니다.
 - AI를 적극적으로 활용해 개발 생산성을 높이는 것에 관심이 많습니다.
 - 좋은 개발 문화를 가진 팀에서 함께 성장하고 싶습니다.
 
@@ -93,3 +93,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📞 Contact
+<div style="display: flex; gap: 12px; align-items: center;">
+  <!-- Tistory -->
+  <a href="https://codingcats.tistory.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Tistory-%23f54?style=flat&logo=Tistory&logoColor=white&logoWidth=20&height=28" alt="Tistory">
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:jhg507677@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-%231a73e8?style=flat&logo=Gmail&logoColor=white&logoWidth=20&height=28" alt="Gmail">
+  </a>
+</div>
